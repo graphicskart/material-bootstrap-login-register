@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/material-bootstrap-login-register/static/css/main.e5a8995f.chunk.css"
   },
   {
-    "revision": "c171b5519d66aa5093c9d9603cd43ccd",
+    "revision": "f7694d1ed971664df0d79035f0868338",
     "url": "/material-bootstrap-login-register/index.html"
   }
 ];
